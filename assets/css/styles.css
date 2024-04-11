@@ -516,32 +516,16 @@ img{
     width: 95%;
 }
 
-.skills__java{
-    width: 40%;
-}
-
-.skills__r{
-    width: 90%;
-}
-
-.skills__cplusplus{
-    width: 75%;
-}
-
-.skills__c{
-    width: 65%;
-}
-
-.skills__docker{
-    width: 85%;
-}
-
 .skills__Javascript{
     width: 50%;
 }
 
 .skills__HTML{
-    width: 90%;
+    width: 95%;
+}
+
+.skills__docker{
+    width: 85%;
 }
 
 .skills__kubernetes{
