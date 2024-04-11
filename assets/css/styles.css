@@ -1357,9 +1357,3 @@ img{
     opacity: 0;
     }
 
-.visitor-badge {
-    position: fixed;
-    top: 10px; /* Adjust as needed */
-    right: 10px; /* Adjust as needed */
-    z-index: 9999; /* Ensure badge is above other content */
-}
