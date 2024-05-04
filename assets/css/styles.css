@@ -301,7 +301,7 @@ img{
 }
 
 .home__blob{
-    width: 200px;
+    width: 250px;
     fill: var(--first-color);
 }
 
@@ -407,7 +407,7 @@ img{
 
 /*==================== ABOUT ====================*/
 .about__img{
-    width: 200px;
+    width: 160px;
     border-radius: .5rem;
     justify-self: center;
     align-self: center;
